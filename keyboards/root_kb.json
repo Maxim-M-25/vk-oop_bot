@@ -1,0 +1,89 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "/help"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "/profile"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "/debug"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "/get_all_users"
+        },
+        "color": "primary"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "/disable"
+        },
+        "color": "negative"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "/on"
+        },
+        "color": "positive"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "/logs"
+        },
+        "color": "positive"
+      }
+    ],
+    [
+
+      {
+        "action": {
+          "type": "text",
+          "label": "//рассылка"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "/создать_рассылку"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "/очистить_текст"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "//default"
+        },
+        "color": "positive"
+      }
+    ]
+  ]
+}

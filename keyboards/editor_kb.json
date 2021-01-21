@@ -1,0 +1,52 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "/help"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "/profile"
+        },
+        "color": "primary"
+      }
+    ],
+    [
+
+      {
+        "action": {
+          "type": "text",
+          "label": "//рассылка"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "/создать_рассылку"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "/очистить_текст"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "//default"
+        },
+        "color": "positive"
+      }
+    ]
+  ]
+}

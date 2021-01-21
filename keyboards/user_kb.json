@@ -1,0 +1,21 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "/help"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "/profile"
+        },
+        "color": "primary"
+      }
+    ]
+  ]
+}
